@@ -1,6 +1,6 @@
 package com.marciorc.SpringTest;
 
-import com.marciorc.SpringTest.WebdriverSetup.Hooks;
+import com.marciorc.SpringTest.webdriver.Hooks;
 import com.marciorc.SpringTest.pages.AddProductPage;
 import com.marciorc.SpringTest.pages.EditProductPage;
 import com.marciorc.SpringTest.pages.HomePage;

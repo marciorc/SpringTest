@@ -1,4 +1,4 @@
-package com.marciorc.SpringTest.WebdriverSetup;
+package com.marciorc.SpringTest.webdriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
